@@ -170,4 +170,5 @@ cython_debug/
 goodsread/
 
 .vscode
+catboost_info/
 

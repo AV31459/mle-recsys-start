@@ -171,4 +171,5 @@ goodsread/
 
 .vscode
 catboost_info/
+cache/
 
